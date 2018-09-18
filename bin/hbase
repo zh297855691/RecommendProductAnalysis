@@ -1,0 +1,22 @@
+Example of Creating HBase Table:
+create 'kaohe:Upay_Message_Details','messages',{SPLITS => ['01','02','03','04','05','06','07','08','09','10','11','12','13','14','15']},{VERSION => 1,TTL => '432000'}
+
+Table1: RPA_MRS_SMS_TIME(漫游欢迎短信时间维度表),保存40天
+create 'mrs:RPA_MRS_SMS_TIME',{NAME => 'info',VERSION => 1,TTL => '864000'}
+
+Table2: RPA_MRS_SMS（漫游欢迎短信表）,保存10天
+create 'mrs:RPA_MRS_SMS',{NAME => 'info',VERSION => 1,TTL => '3456000'}
+
+Table3: RPA_MRS_MSC_COUNTRY_CODE（关口号与运营商国家代码对应表）
+create 'mrs:RPA_MRS_MSC_COUNTRY_CODE',{NAME => 'info',VERSION => 1}
+
+Table4:RPA_MRS_PRODUCT_LIMIT（每天产品推送记录表）
+create 'mrs:RPA_MRS_PRODUCT_LIMIT',{NAME => 'info',VERSION => 1}
+
+Table5:RPA_MRS_GGSN(GGSN详单表)，保存10天
+create 'mrs:RPA_MRS_GGSN',{NAME => 'info',VERSION => 1,TTL => '3456000'}
+
+Table6:RPA_MRS_SMS_LUDAY(LU天数控制表)，保存40天
+create 'mrs:RPA_MRS_SMS_LUDAY',{NAME => 'f',VERSION => 1,TTL => '3456000'}
+
+

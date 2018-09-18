@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/GreetingMessageAnalysis.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/LabelRule.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/MarketPlan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/PlanProduct.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/PlanState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/ProductInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/SmsProfile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/UserLabel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/UserRealTimeLabel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/entity/UserRecommendRecord.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/hbase/HBaseUtils.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/hbase/OrderingInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/mysql/MySQLManager.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/utils/LoadFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/utils/LoadMySQLData.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/utils/Tools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/utils/Utils.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/com/cmit/cmhk/utils/initCountryCodeMap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/scala/org/apache/spark/streaming/kafka/kafkaManager.scala" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/HBasetest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/PhoenixUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/json.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/java/jsonTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/scala/test.scala" charset="GBK" />
+  </component>
+</project>

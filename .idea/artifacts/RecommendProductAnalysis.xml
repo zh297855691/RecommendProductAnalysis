@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RecommendProductAnalysis">
+    <output-path>$PROJECT_DIR$/out/artifacts/RecommendProductAnalysis</output-path>
+    <root id="archive" name="RecommendProductAnalysis.jar">
+      <element id="module-output" name="RecommendProductAnalysis" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
